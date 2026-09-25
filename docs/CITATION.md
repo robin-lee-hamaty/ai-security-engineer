@@ -4,11 +4,11 @@ Please cite the permanent Zenodo record so links remain stable across versions.
 
 ## APA
 
-> Hamaty, R. L. (2026). *AI Security Engineer: A University-Grade Guide from Beginner to PhD* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.PENDING
+> Hamaty, R. L. (2026). *AI Security Engineer: A University-Grade Guide from Beginner to PhD* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22959500
 
 ## IEEE
 
-> R. L. Hamaty, *AI Security Engineer: A University-Grade Guide from Beginner to PhD*, Version 1.0. Zenodo, 2026. doi: 10.5281/zenodo.PENDING
+> R. L. Hamaty, *AI Security Engineer: A University-Grade Guide from Beginner to PhD*, Version 1.0. Zenodo, 2026. doi: 10.5281/zenodo.22959500
 
 ## BibTeX
 
@@ -19,8 +19,8 @@ Please cite the permanent Zenodo record so links remain stable across versions.
   year      = {2026},
   version   = {1.0},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.PENDING},
-  url       = {https://doi.org/10.5281/zenodo.PENDING}
+  doi       = {10.5281/zenodo.22959500},
+  url       = {https://doi.org/10.5281/zenodo.22959500}
 }
 ```
 

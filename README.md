@@ -4,7 +4,7 @@
 
 Written and Designed by **Robin Lee Hamaty**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PENDING.svg)](https://doi.org/10.5281/zenodo.PENDING)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22959500.svg)](https://doi.org/10.5281/zenodo.22959500)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Code License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE-CODE)
 [![Version](https://img.shields.io/badge/version-1.0-green.svg)](CHANGELOG.md)
@@ -14,7 +14,7 @@ Written and Designed by **Robin Lee Hamaty**
 ## 📖 Download the book
 
 - **PDF (this repository):** [`book/AI_Security_Engineer_Robin_Lee_Hamaty.pdf`](book/AI_Security_Engineer_Robin_Lee_Hamaty.pdf)
-- **Permanent DOI (Zenodo):** https://doi.org/10.5281/zenodo.PENDING
+- **Permanent DOI (Zenodo):** https://doi.org/10.5281/zenodo.22959500
 
 ## About the book
 
@@ -95,7 +95,7 @@ The book is built to be run, not just read. It contains runnable code examples, 
 
 If you use this work, please cite it. See [`CITATION.cff`](CITATION.cff) and [`docs/CITATION.md`](docs/CITATION.md).
 
-> Hamaty, R. L. (2026). *AI Security Engineer: A University-Grade Guide from Beginner to PhD* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.PENDING
+> Hamaty, R. L. (2026). *AI Security Engineer: A University-Grade Guide from Beginner to PhD* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22959500
 
 ## License
 
