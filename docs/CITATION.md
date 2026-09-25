@@ -26,4 +26,3 @@ Please cite the permanent Zenodo record so links remain stable across versions.
 
 A machine-readable citation is also provided in [`../CITATION.cff`](../CITATION.cff).
 
-> The DOI shown as `PENDING` is replaced with the real Zenodo DOI on publication.
