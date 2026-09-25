@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "AI Security Engineer"
+subtitle: "A University-Grade Guide from Beginner to PhD"
+abstract: "A free, openly licensed educational resource on AI security engineering, progressing from foundational computing and machine-learning concepts through professional engineering, red teaming, architecture, operations, governance, management, and academic research practice."
+type: book
+authors:
+  - family-names: "Hamaty"
+    given-names: "Robin Lee"
+version: "1.0"
+date-released: "2026-09-25"
+license: "CC-BY-4.0"
+keywords:
+  - "AI Security"
+  - "Generative AI Security"
+  - "LLM Security"
+  - "Prompt Injection"
+  - "Agentic AI"
+  - "RAG Security"
+  - "Adversarial Machine Learning"
+  - "AI Red Teaming"
+  - "Threat Modelling"
+  - "Secure AI"
+  - "Cybersecurity"
+  - "AI Governance"
+  - "MLOps Security"
+  - "AI Security Engineering"
+  - "AI Security Education"
+  - "Responsible AI"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.PENDING"
+    description: "Zenodo concept DOI for AI Security Engineer"
