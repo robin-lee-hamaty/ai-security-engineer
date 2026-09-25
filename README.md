@@ -4,17 +4,31 @@
 
 Written and Designed by **Robin Lee Hamaty**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22959500.svg)](https://doi.org/10.5281/zenodo.22959500)
+[![Zenodo record](https://img.shields.io/badge/Zenodo-record%2022959501-1682D4?logo=zenodo&logoColor=white)](https://zenodo.org/records/22959501)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Code License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE-CODE)
 [![Version](https://img.shields.io/badge/version-1.0-green.svg)](CHANGELOG.md)
 
 > A free, openly licensed educational resource on AI security engineering — from foundational computing and machine-learning concepts through professional engineering, red teaming, architecture, operations, governance, management, executive decision support, and academic research practice.
 
+## 📖 Official Publication
+
+The canonical public publication of **AI Security Engineer** is available on Zenodo:
+
+**https://zenodo.org/records/22959501**
+
+- Version: 1.0
+- Author: Robin Lee Hamaty
+- License: CC BY 4.0
+- Version DOI: `10.5281/zenodo.22959501`
+- Concept DOI: `10.5281/zenodo.22959500`
+- DOI status: the DOI is minted and shown on the Zenodo record; global `doi.org` resolution may still be propagating. Use the Zenodo record link above until the DOI resolves.
+
 ## 📖 Download the book
 
 - **PDF (this repository):** [`book/AI_Security_Engineer_Robin_Lee_Hamaty.pdf`](book/AI_Security_Engineer_Robin_Lee_Hamaty.pdf)
-- **Permanent DOI (Zenodo):** https://doi.org/10.5281/zenodo.22959500
+- **Read / download on Zenodo (official record):** https://zenodo.org/records/22959501
+- **DOI:** version 1.0 `10.5281/zenodo.22959501` · concept `10.5281/zenodo.22959500` (registration propagating; use the Zenodo record link above until it resolves)
 
 ## About the book
 
